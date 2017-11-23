@@ -4,5 +4,5 @@ app test
 
 PHP, MySQL, HTML, CSS, JS
 
-/!\ Not responsive /!\
+/!\ Not responsive /!\ 
 /!\ need FAKER /!\
